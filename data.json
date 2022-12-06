@@ -1,0 +1,55 @@
+{
+  "Info": {
+    "video": "icons/intro.mp4",
+    "name": "Moeid Ahmed",
+    "description": "Internship in Allied Consultant as a professional learning experience that offers me meaningful, practical work related to a my field of study or career interest. This gives me an opportunity for career exploration and development, and to learn new skills.",
+    "projects": [
+      {
+        "name": "School Management System",
+        "more": "Front End: Making the design of the website by using Html, css and Bootstrap"
+      },
+      {
+        "name": "Travel Seeker",
+        "more": "Front End and testing the website working."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Html",
+        "more": "Tags, Designing",
+        "image": "icons/css.png"
+      },
+      {
+        "name": "Css",
+        "more": "Inline CSS, Internal or Embedded CSS, External CSS",
+        "image": "icons/html.png"
+      },
+      {
+        "name": "JavaScript",
+        "more": "Data Types, Events, Conditional statements, Functions and Function Calls, Scope, Loops,  Dom creation and modification, Asynchronous Communication",
+        "image": "icons/javaScript.png"
+      },
+      {
+        "name": "Bootstrap",
+        "more": "Accordion, Alerts, Badges, Borders, Button Groups, Button Modifiers,   Buttons, Cards, Carousel, Collapse, Colors, Custom Forms, Display,Dropdowns, Figure, Flexbox, Form Input Groups, Forms, Grid, Images, Jumbotron, List Group, List group, Media Objects, Misc, Modal, Navbar, Pagination, Popover, Positioning, Progress, Scrollspy, Sizing, Spacing, Tables, Text,Toast, Tooltips, Typography",
+        "image": "icons/bootstrap.jpg"
+      },
+      {
+        "name": "Tailwind",
+        "more": "Animation, Background clip, Background color, Background gradient, Border color, Borders, Box, Colors, Display, Divide, Flex, Flexbox, Forms, Grid, Group hover, Height, List, Margins, Nums, Opacity, Outline, Paddings, Positioning, Pseudo class, Responsive, Ring, Scroll, Shadows, Sizing, Spacing, Svg, Table, Text, Transform, Typography, Utilities, Visibility, Width",
+        "image": "icons/tailwind.png"
+      },
+      {
+        "name": "Node JS",
+        "more": "Server creating, Database Attaching, Endpoints",
+        "image": "icons/node.png"
+      }
+    ],
+    "about": "Internship in Allied Consultant as a professional learning experience",
+    "education": {
+      "degree": "BS Computer Science",
+      "organization": "Government Collage University Faisalabad",
+      "year": "2017-2021"
+    }
+  }
+}
